@@ -73,7 +73,7 @@ A collection of smaller standalone projects built outside coursework:
 
 ### 📅 Planned
 
-- **Deep Learning Projects** — building neural network architectures from scratch to understand optimization, backpropagation, and generalization
+- **Deep Learning Projects** — going beyond the fundamentals (backpropagation, optimization, generalization — already covered) into more advanced territory: complex architectures, combining models, and applying deep learning to real problems
 - **Strategy Experiments** — implementing and testing ML-based strategy ideas against the backtesting engine
 - **Advanced Quant Research** — exploring market microstructure, HFT concepts, and applying research papers in practice
 
