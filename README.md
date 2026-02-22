@@ -118,10 +118,10 @@ Computer Science – Intelligent Systems
 - Python, NumPy, Pandas, Matplotlib
 
 **Machine Learning**
-- Scikit-learn, supervised learning, feature engineering, model validation, time-series modeling
+- Scikit-learn, supervised learning, unsupervised learning, feature engineering, model validation, time-series modeling
 
 **Deep Learning**
-- Neural networks, gradient-based optimization, experimental architectures
+- TensorFlow, neural networks, gradient-based optimization, experimental architectures
 
 ---
 
