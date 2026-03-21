@@ -1,9 +1,11 @@
 # Hi, I'm Norbert 👋
 
-Computer Science student at AGH University of Science and Technology
+Computer Science student at AGH University of Science and Technology  
 Field of study: Informatyka i Systemy Inteligentne (Computer Science & Intelligent Systems)
 
 I'm passionate about Machine Learning and Deep Learning, with a growing interest in quantitative modeling and data-driven decision systems.
+
+I'm also interested in a broad variety of Artificial Intelligence — including areas like Large Language Models (LLMs), AI-assisted systems, and human-AI interaction.
 
 This GitHub documents my learning journey, experiments, and projects in ML/DL and applied data systems.
 
@@ -24,6 +26,21 @@ I care about implementation, experimentation, and understanding why models work 
 ## 🚀 Projects
 
 ### 🟡 In Progress
+
+---
+
+#### 📬 MailBender — AI Email Workflow Redesign
+
+A project focused on rethinking how people write and manage emails using AI.
+
+- Redefining the email writing process with AI assistance  
+- Improving clarity, intent, and structure of communication  
+- Reducing friction in everyday workflows  
+- Moving toward semi-automated communication systems  
+
+The goal is not just to generate emails, but to design a smarter interaction layer between humans and communication tools.
+
+---
 
 #### 📊 [BacktestKit](https://github.com/njarzmik/quant-ML-projects/tree/main/backtestkit) — Modular Backtesting Engine
 
@@ -68,7 +85,6 @@ A collection of smaller standalone projects built outside coursework:
 - Model evaluation & feature engineering
 - Overfitting control
 - Time-series modeling experiments
-
 ---
 
 ### 📅 Planned
@@ -83,7 +99,7 @@ A collection of smaller standalone projects built outside coursework:
 
 ### 🎓 University
 
-AGH University of Science and Technology
+AGH University of Science and Technology  
 Computer Science – Intelligent Systems
 
 ---
@@ -146,4 +162,4 @@ I'm interested in ML and DL broadly — from structured data modeling to more ad
 
 ---
 
-*This profile reflects an ongoing journey in Machine Learning and Deep Learning — with curiosity, experimentation, and long-term growth in mind.*
+*This profile reflects an ongoing journey in Machine Learning, Deep Learning, and broader AI — with curiosity, experimentation, and long-term growth in mind.*
