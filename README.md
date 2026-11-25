@@ -1,165 +1,20 @@
-# Hi, I'm Norbert 👋
+# Norbert Jarzmik
 
-Computer Science student at AGH University of Science and Technology  
-Field of study: Informatyka i Systemy Inteligentne (Computer Science & Intelligent Systems)
+Computer Science student at AGH University of Kraków. I trade my own money on Solana with bots I build: a copy-trading bot that has run live since September 2026, and a low-latency one built to race other copy traders into the same block-engine batch.
 
-I'm passionate about Machine Learning and Deep Learning, with a growing interest in quantitative modeling and data-driven decision systems.
+My main work lives in a private repository, `investing`: the research, the backtests and about ten bots over time, two of them live. It stays private because the trading edge is in it. The activity graph on this page is mostly that repository, and I'm happy to walk through it on a call.
 
-I'm also interested in a broad variety of Artificial Intelligence — including areas like Large Language Models (LLMs), AI-assisted systems, and human-AI interaction.
+What is public:
 
-This GitHub documents my learning journey, experiments, and projects in ML/DL and applied data systems.
+- [rawrec](https://github.com/njarzmik/rawrec): a C11 recorder for raw Solana shreds, built to time which feed delivers a block first.
+- [shredkit](https://github.com/njarzmik/shredkit): parses and verifies Solana shreds, recovers missing ones with Reed-Solomon and rebuilds the transactions.
+- [faithful-reader](https://github.com/njarzmik/faithful-reader): reads blocks straight from the Old Faithful archive by byte ranges.
+- [solana-wallet-audit](https://github.com/njarzmik/solana-wallet-audit): rebuilds a wallet's balance from its own transactions, to the lamport.
+- [anchor-upgrade-check](https://github.com/njarzmik/anchor-upgrade-check): checks a program's new binary against its IDL after an upgrade, before trading through it.
+- [NLP_predictor](https://github.com/AGHAnalytica/NLP_predictor): news-driven trading signals, a student team project I founded and led at AGH Analytica (early stage).
 
----
+I also co-founded MailBender, an email assistant, and led its engineering (private).
 
-## 🎯 What I'm Working Toward
+At university I write code by hand. In my own systems I direct AI coding agents and check their work.
 
-- Building strong foundations in Machine Learning & Deep Learning
-- Designing robust, well-tested data-driven systems
-- Understanding model validation and generalization deeply
-- Exploring quantitative modeling without limiting myself to finance
-- Continuously improving engineering discipline in ML projects
-
-I care about implementation, experimentation, and understanding why models work — not just making them run.
-
----
-
-## 🚀 Projects
-
-### 🟡 In Progress
-
----
-
-#### 📬 MailBender — AI Email Workflow Redesign
-
-A project focused on rethinking how people write and manage emails using AI.
-
-- Redefining the email writing process with AI assistance  
-- Improving clarity, intent, and structure of communication  
-- Reducing friction in everyday workflows  
-- Moving toward semi-automated communication systems  
-
-The goal is not just to generate emails, but to design a smarter interaction layer between humans and communication tools.
-
----
-
-#### 📊 [BacktestKit](https://github.com/njarzmik/quant-ML-projects/tree/main/backtestkit) — Modular Backtesting Engine
-
-A professional-grade backtesting engine for simulating trading strategies against historical OHLC data.
-
-- Strategy-agnostic: any strategy that produces signals plugs straight in
-- Realistic execution: spread/fee models, stop-loss/take-profit logic
-- No lookahead bias — signals at candle `i` execute at open of candle `i+1`
-- Fully deterministic and rule-based
-- 121 unit tests
-
-Currently implementing: main engine loop, performance metrics, CLI runner.
-
----
-
-#### 🤖 [ML-Based Signal Generator](https://github.com/njarzmik/quant-ML-projects/tree/main/ML-based-signal-generator) — Research Pipeline
-
-A research-grade ML pipeline for generating trading signals, inspired by *Advances in Financial Machine Learning*.
-
-- Information-driven bar construction (Dollar Imbalance, Dollar/Tick Run Bars)
-- CUSUM event sampling
-- Triple Barrier Method labeling
-- Two-model architecture: M1 (direction) + M2 (risk gate & sizing)
-- Purged cross-validation with embargo to prevent leakage
-
-Built to plug into BacktestKit once complete.
-
----
-
-#### 🎬 [Recommender Systems](https://github.com/njarzmik/ML-quant-researcher-journey-mini-projects/tree/main/collaborative-filtering-recommender-systems) — Mini Project
-
-Implemented from scratch:
-- Collaborative Filtering
-- Content-Based Filtering
-
----
-
-#### 🧪 [ML & Quant Mini-Projects](https://github.com/njarzmik/ML-quant-researcher-journey-mini-projects) — Ongoing Experiments
-
-A collection of smaller standalone projects built outside coursework:
-- Supervised learning
-- Model evaluation & feature engineering
-- Overfitting control
-- Time-series modeling experiments
----
-
-### 📅 Planned
-
-- **Deep Learning Projects** — going beyond the fundamentals (backpropagation, optimization, generalization — already covered) into more advanced territory: complex architectures, combining models, and applying deep learning to real problems
-- **Strategy Experiments** — implementing and testing ML-based strategy ideas against the backtesting engine
-- **Advanced Quant Research** — exploring market microstructure, HFT concepts, and applying research papers in practice
-
----
-
-## 📚 Education & Learning
-
-### 🎓 University
-
-AGH University of Science and Technology  
-Computer Science – Intelligent Systems
-
----
-
-### ✅ Completed Courses
-
-- **Machine Learning Specialization**
-- **Algorithmic Trading A–Z with Python, Machine Learning & AWS**
-
----
-
-### 📖 Currently Studying
-
-- *Advances in Financial Machine Learning*
-- Deep Learning Specialization
-- Neural network architectures and optimization
-
----
-
-### 🧠 Planned
-
-- Machine Learning for Algorithmic Trading
-- Algorithmic HFT Trading
-- Market Microstructure Theory
-- Research papers in ML and applied modeling
-
----
-
-## 🛠 Tech Stack
-
-**Languages & Tools**
-- Python, NumPy, Pandas, Matplotlib
-
-**Machine Learning**
-- Scikit-learn, supervised learning, unsupervised learning, feature engineering, model validation, time-series modeling
-
-**Deep Learning**
-- TensorFlow, neural networks, gradient-based optimization, experimental architectures
-
----
-
-## 🌍 Philosophy
-
-I try to learn by building.
-
-Every model should be:
-- Implemented
-- Tested
-- Evaluated
-- Improved
-
-I'm interested in ML and DL broadly — from structured data modeling to more advanced neural systems — while exploring quantitative ideas as one of many applied domains.
-
----
-
-## 📫 Contact
-
-- GitHub: [github.com/njarzmik](https://github.com/njarzmik)
-- LinkedIn: [Norbert Jarzmik](https://www.linkedin.com/in/norbert-jarzmik-38802431b/)
-
----
-
-*This profile reflects an ongoing journey in Machine Learning, Deep Learning, and broader AI — with curiosity, experimentation, and long-term growth in mind.*
+[CV](https://github.com/njarzmik/njarzmik/blob/main/Norbert_Jarzmik_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/norbert-jarzmik-38802431b/)
