@@ -17,4 +17,4 @@ I also co-founded MailBender, an email assistant, and led its engineering (priva
 
 At university I write code by hand. In my own systems I direct AI coding agents and check their work.
 
-[CV](https://github.com/njarzmik/njarzmik/blob/main/Norbert_Jarzmik_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/norbert-jarzmik-38802431b/)
+[Cover letter](https://github.com/njarzmik/njarzmik/blob/main/Norbert_Jarzmik_Cover_Letter.pdf) · [CV](https://github.com/njarzmik/njarzmik/blob/main/Norbert_Jarzmik_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/norbert-jarzmik-38802431b/)
